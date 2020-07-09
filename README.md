@@ -8,3 +8,5 @@
 
 I started my career in the Tech field with .Net in a software house company and after 2 year I moved on the client side {{ Backend is the dark side :D }}. As a Frontend Developer I worked with different technologies (Html, Css and Javascript) and frameworks / libraries (jQuery, Angular, React, StencilJS).
 I love coding and learning new things about programming languages, frameworks and web / mobile development.
+
+<img src="https://user-images.githubusercontent.com/6887120/87022846-57007a80-c1d7-11ea-8aa0-3146fe52b247.jpg">
