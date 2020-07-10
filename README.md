@@ -1,8 +1,8 @@
 <img src="https://user-images.githubusercontent.com/6887120/87133013-00f30c00-c297-11ea-8aa2-a0ce9107fa4c.png">
 
 ### Hi there 👋
-[![Linkedin Badge](https://img.shields.io/badge/-danielobara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielmayta/)](https://www.linkedin.com/in/gabrielmayta/)
-[![Gmail Badge](https://img.shields.io/badge/-danieltsutomu@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:grandemayta@gmail.com)](mailto:grandemayta@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-gabrielmayta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielmayta/)](https://www.linkedin.com/in/gabrielmayta/)
+[![Gmail Badge](https://img.shields.io/badge/-grandemayta@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:grandemayta@gmail.com)](mailto:grandemayta@gmail.com)
 
 <!--
 **grandemayta/grandemayta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
