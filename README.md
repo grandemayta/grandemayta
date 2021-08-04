@@ -7,15 +7,14 @@
 **grandemayta/grandemayta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-:zap:  **Frontend Tech Lead** from **Perù** that live in the beautiful city of **Milan**, with more than 10 years of experience :zap:
+:zap:  **Team Leader & Frontend Developer** from **Perù** that live in the beautiful city of **Milan**, with more than 10 years of experience :zap:
 
 ## About Me
-I started my career in the Tech field with .Net in a software house company and after 2 years I moved on the client side {{ Backend is the dark side :D }}. As a Frontend Developer I worked with different technologies like Html, Css and Javascript and frameworks / libraries like jQuery, Angular, React and StencilJS.
-I love coding and learning new things about programming languages, frameworks and web / mobile development.
+10 years in the Tech field, I started my career with .Net framework in a software house company and after 2 year I moved on the client side. As a Frontend Developer I worked with different frontend technologies like jQuery, AngularJS, Angular 2, React, StencilJS, Webpack and more. I'm a self taught and I like to learn and test new things about programming languages, frameworks and web / mobile development.
 
 ## My Stack
 
-- VanillaJS
+- Javascript
 - Webpack
 - Svelte
 - StencilJS
