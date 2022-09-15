@@ -14,14 +14,12 @@
 
 ## My Stack
 
-- Javascript
-- Typescript
-- Vite
-- Webpack
-- Svelte
-- StencilJS
+- Javascript (with Typescript)
 - ReactJS
 - Angular
+- StencilJS
+- Vite
+- Webpack
 - Storybook
 - Jest
 - Cypress
