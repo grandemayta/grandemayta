@@ -15,15 +15,15 @@
 ## My Stack
 
 - Javascript
+- Typescript
+- Vite
 - Webpack
 - Svelte
 - StencilJS
 - ReactJS
 - Angular
-- LitElement
+- Storybook
 - Jest
 - Cypress
-- Github Actions
-- Lighthouse
 
 **Keep calm and code**
