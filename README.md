@@ -18,8 +18,10 @@
 - ReactJS
 - Angular
 - StencilJS
-- Vite
+- Redux Toolkit
+- React Query
 - Webpack
+- Vite
 - Storybook
 - Jest
 - Cypress
